@@ -35,3 +35,7 @@
 18.Write a script that prompts the user to enter their name and age. Store these values in variables and display a greeting message like "Hello, [Name]. You are [Age] years old!".
 
 19.Create a small program that asks the user to input two numbers and then prints their sum, difference, product, and quotient.
+
+20.Write a script that asks the user to input their age. If the age is greater than or equal to 18, print "You are eligible to vote." Otherwise, print "You are not eligible to vote."
+
+21.Create a program that prompts the user for two numbers. If both numbers are positive, calculate and print their average. If either number is negative, print an error message instead.
